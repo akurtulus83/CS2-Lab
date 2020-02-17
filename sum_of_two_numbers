@@ -1,0 +1,17 @@
+package java_first;
+
+public class sum_of_two_numbers {
+
+	public static void main(String[] args) {
+		
+		int varaible_1, varaible_2, sum;
+		varaible_1=55;
+		varaible_2=15;
+		sum=(varaible_1+varaible_2);
+			
+		System.out.println("sum is ="+sum);
+		
+		
+	}
+
+}
